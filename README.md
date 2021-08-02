@@ -1,4 +1,3 @@
-# smartclasses
 <!DOCTYPE html>
 <html>
 
