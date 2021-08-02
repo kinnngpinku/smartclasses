@@ -49,7 +49,7 @@
   </ul>
 </nav>
   <img class="bottom-cloud" src="smart class logo .png" alt="cloud">
-  <img class="top-cloud" src="ezgif-4-8979b67af35a.gif" alt="cloud">
+  <img class="top-cloud" src="/ezgif-4-8979b67af35a.gif" alt="cloud">
   <div class="top-container">
     <div class="title-text">
       <h1>Smart classes</h1>
